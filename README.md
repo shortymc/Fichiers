@@ -12,7 +12,7 @@ Most features require JavaScript enabled to function properly.
 - Delete directories recursively
 - Upload several files
 - Different colors for the interface (the CSS stylesheet is generated dynamically)
-- The urban hits hip-hop instrumentals music album of shortymc "Experimental Session"
+
 
 ## Install instructions
 - Download zip/tarball and extract.
