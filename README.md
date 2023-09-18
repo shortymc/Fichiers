@@ -1,6 +1,7 @@
+This version renamed "Fichiers" is forked and translated to french by shorty @ tradezone.fr
 *CuteViewer* is a simple file/directory viewer made in PHP for my personal use. Since some people have shown interest in using it, I decided to distribute the source.
 Most features require JavaScript enabled to function properly.
-This version renamed "Fichiers" is forked and translated to french by shorty @ tradezone.fr
+
 ## Features
 - Password protection for deletion/renaming of files
 - The script is constrained to the directory it's put in and directories below it.
@@ -11,9 +12,12 @@ This version renamed "Fichiers" is forked and translated to french by shorty @ t
 - Delete directories recursively
 - Upload several files
 - Different colors for the interface (the CSS stylesheet is generated dynamically)
+- The urban hits hip-hop instrumentals music album of shortymc "Experimental Session"
 
 ## Install instructions
 - Download zip/tarball and extract.
+- Upload to your webserver
+- CHMOD 777 recursively the folders and files where you need to upload some files
 - Open up `fviewer.php` in your favorite text editor.
 - Change the `$pass` variable.
 - Add the files/directories you want to hide to the `$hiddenDirs` array.
