@@ -1,6 +1,6 @@
 *CuteViewer* is a simple file/directory viewer made in PHP for my personal use. Since some people have shown interest in using it, I decided to distribute the source.
 Most features require JavaScript enabled to function properly.
-
+This version renamed "Fichiers" is forked and translated to french by shorty @ tradezone.fr
 ## Features
 - Password protection for deletion/renaming of files
 - The script is constrained to the directory it's put in and directories below it.
